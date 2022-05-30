@@ -1,0 +1,14 @@
+targets:
+  $default:
+    builders:
+      fast_i18n:
+        options:
+          base_locale: fr
+          fallback_strategy: base_locale
+          input_directory: i18n
+          output_directory: lib/i18n/generated
+          output_file_name: intl.g.dart
+          output_format: single_file
+          locale_handling: true
+          namespaces: false
+          translate_var: I18n

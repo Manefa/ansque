@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820303452912",
+    "project_id": "ansque-aa986",
+    "storage_bucket": "ansque-aa986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820303452912:android:0b0e352cb75ed31fe68035",
+        "android_client_info": {
+          "package_name": "com.example.ansque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820303452912-gbs5vtumguvo050qvl8s17dfsu9gnrjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ansque",
+            "certificate_hash": "3c72dc78594cd514b225b968b08cc2dad9841a30"
+          }
+        },
+        {
+          "client_id": "820303452912-ojdohhu9p02v60tk7bkkgdvv3f0cnbm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZ-8mtLQ0EZ3oOSFgx32zke-uGIs3UCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820303452912-ojdohhu9p02v60tk7bkkgdvv3f0cnbm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

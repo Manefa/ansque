@@ -1,0 +1,10 @@
+{
+  "onboarding": {
+    "firstStep": "Déposer vos requêtes de façon simple",
+    "secondStep": "Suivre l’évolution de vos requêtes",
+    "previous": "Précédent",
+    "next":"Suivant",
+    "start": "Commencer",
+    "skip": "Sauter"
+  }
+}

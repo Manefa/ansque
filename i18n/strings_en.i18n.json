@@ -1,0 +1,10 @@
+{
+  "onboarding": {
+    "firstStep": "Submit your requests in a simple way",
+    "secondStep": "Follow the evolution of your requests",
+    "previous": "Previous",
+    "next": "Next",
+    "start": "Start",
+    "skip": "Skip"
+  }
+}
